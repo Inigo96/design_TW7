@@ -8,7 +8,7 @@ import java.rmi.RemoteException;
 import java.util.Date;
 
 /**
- * Created by inigo on 21/11/16..
+ * Created by inigo on 21/11/16.
  */
 public class Controller {
 
